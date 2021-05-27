@@ -1,0 +1,19 @@
+@font-face {
+    font-family: hk-grotesk;
+    src: url(/assets/hk-grotesk.woff), url(/assets/hk-grotesk.woff2);
+}
+
+:root {
+    --main-color: #333;
+    --section1-background: #c8dee0;
+    --section2-background: #c5c5c5;
+    --section3-background: #292121;
+    --section4-background: #f3f1f2;
+
+}
+
+body {
+    font-family: 'hk-grotesk', sans-serif;
+    color: #333333;
+    line-height: 1.25;
+}
